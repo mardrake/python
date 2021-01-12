@@ -7,3 +7,4 @@ n_1 = int(f"{n * 1}")
 n_2 = int(f"{n * 2}")
 n_3 = int(f"{n * 3}")
 print(n_1 + n_2 + n_3)
+
