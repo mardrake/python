@@ -8,4 +8,3 @@ number_2 = input('Введите второе число:')
 number_3 = input('Введите третье число:')
 string_1 = input('Введите название вашего города:')
 print('Вы ввели:', number_1, number_2, number_3, string_1)
-
