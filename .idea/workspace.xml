@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task 6&#10;done" />
+    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="vcs workspace update">
+      <change afterPath="$PROJECT_DIR$/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610534884583</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="task 1&#10;done">
+      <created>1610696372380</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610696372380</updated>
+    </task>
+    <task id="LOCAL-00018" summary="vcs workspace update">
+      <created>1610696446795</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1610696446795</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,12 +233,13 @@
     <MESSAGE value="task 3&#10;formatted 2" />
     <MESSAGE value="task 4" />
     <MESSAGE value="task 4&#10;done" />
-    <MESSAGE value="task 1&#10;done" />
     <MESSAGE value="task 2&#10;done" />
     <MESSAGE value="ReadMe&#10;done" />
     <MESSAGE value="git&#10;done" />
     <MESSAGE value="task 5&#10;done" />
     <MESSAGE value="task 6&#10;done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 6&#10;done" />
+    <MESSAGE value="task 1&#10;done" />
+    <MESSAGE value="vcs workspace update" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs workspace update" />
   </component>
 </project>
