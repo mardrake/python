@@ -14,3 +14,40 @@
 #
 # ]
 
+number = int(input('Введите количество товара: '))
+i=1
+d = {}
+dp = {}
+naz_list=[]
+cena_list=[]
+kol_list=[]
+ed_list=[]
+j = []
+while i <= number:
+  a = (i, )
+  print('Введите название и нажмите Enter:')
+  naz = input()
+  d['название'] = naz
+  naz_list.append(naz)
+  print('Введите цену и нажмите Enter:')
+  cena=int(input())
+  d['цена'] = cena
+  cena_list.append(cena)
+  print('Введите количество и нажмите Enter:')
+  kol=int(input())
+  d['количество'] = kol
+  kol_list.append(kol)
+  print('Введите единицу измерения и нажмите Enter:')
+  ed=input()
+  d['ед'] = ed
+  ed_list.append(ed)
+  a = a + (d, )
+  j.append(a)
+  i+=1
+vivod=int(input('Введите 1, что бы вывести аналитику'))
+dp['название'] = naz_list
+dp['цена'] = cena_list
+dp['количество'] = kol_list
+dp['ед'] = ed_list
+if vivod == 1:
+  print(dp)
