@@ -6,18 +6,19 @@
 # Пользователь ввел число 8. Результат: 8, 7, 5, 3, 3, 2.
 # Пользователь ввел число 1. Результат: 7, 5, 3, 3, 2, 1.
 # Набор натуральных чисел можно задать непосредственно в коде, например, my_list = [7, 5, 3, 3, 2].
-my_list = [7, 5, 3, 3, 2, 8]
-my_list.sort(reverse=True)
-number = 5
-while number != 0:
-    number = int(input('''Введите любое число(Элемент рейтинга)
----------------------------------------------
-Для завершения программы введите цифру ноль :'''))
-    if number < 0:
-        number *= -1
-    if number == 0:
-        print(my_list)
+number = int(input('''Введите число:'''))
+my_list = [7, 5, 3, 3, 2]
+s = my_list.count(number)
+for el in my_list:
+    if s > 0:
+        i = my_list.index(number)
+        my_list.insert(i + s, number)
         break
-    my_list.append(number)
-    my_list.sort(reverse=True)
-    print(my_list)
+    else:
+        if number > el:
+            j = my_list.index(el)
+            my_list.insert(j, number)
+            break
+        elif number < my_list[len(my_list) - 1]:
+            my_list.append(number)
+print(my_list)

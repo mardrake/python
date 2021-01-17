@@ -8,7 +8,6 @@ print(list(input_list))
 s = len(input_list)
 a = []
 i = 0
-j = 0
 if (s % 2) == 0:
     while i != s:
         el = input_list[i]
