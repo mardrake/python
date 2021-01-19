@@ -7,4 +7,4 @@
 def my_func(**kwargs):
     return kwargs
 
-print(my_func(name=input('Enter Name: '), second_name=input('YEnter Second Name: '), year=input('Enter year of birth: '), city=input('Enter Current city: '), email=input('Enter E-mail: '), phone=input('Enter phone number: ')))
+print(my_func(name=input('Enter Name: '), second_name=input('Enter Second Name: '), year=input('Enter year of birth: '), city=input('Enter Current city: '), email=input('Enter E-mail: '), phone=input('Enter phone number: ')))
