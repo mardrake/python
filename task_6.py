@@ -3,11 +3,14 @@
 Например, print(int_func(‘text’)) -> Text.
 '''
 n = input()
-t=''.join(n).split()
-n=' '.join(t)
-def int_func():
-  m = n.lower().capitalize()
+t = ''.join(n).split()
+n = ' '.join(t)
 
-  return m
+
+def int_func():
+    m = n.lower().capitalize()
+
+    return m
+
 
 print(int_func())
