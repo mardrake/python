@@ -6,20 +6,17 @@
 Но если вместо числа вводится специальный символ, выполнение программы завершается.
 Если специальный символ введён после нескольких чисел, то вначале нужно добавить сумму этих чисел к полученной ранее сумме и после этого завершить программу.
 '''
-n = input('Введите числа, через пробел: ')
-m = []
-for i in n:
-    for j in i.split():
-        m.append(int(j))
-s = sum(m)
-print('Сумма: ', s)
+n = input('Введите числа, через пробел: ').split()
+a=[]
+for i, item in enumerate(n):
+    a.append(int(item))
+print('Сумма: ', sum(a))
 
-n = input('Введите еще числа, через пробел: ')
+n = input('Введите еще числа, через пробел: ').split()
 try:
-    for i in n:
-        for j in i.split():
-            m.append(int(j))
+    for i, item in enumerate(n):
+        a.append(int(item))
 except ValueError:
     print('Это не число. Выходим.')
-s = sum(m)
+s = sum(a)
 print('Сумма: ', s)
