@@ -27,15 +27,20 @@ print(my_func(x, y))
 Второй — более сложная реализация без оператора **, предусматривающая использование цикла.
 '''
 x = int(input('Введите число: '))
-y = int(input('Введите степень без минуса, я все сделаю сам: '))
-
+j=y = int(input('Введите степень: '))
+if j<0:
+  y=y*-1
+else:
+  y=y
 
 def my_funcc():
-    z = x
-    for el in range(1, y):
-        t = z * x
-        z = z * x
-    return 1 / t
+  z = x
+  for el in range(1, y):
+    t = z * x
+    z = z * x
+  return 1 / t
 
-
-print(my_funcc())
+if j<0:
+  print(my_funcc()*-1)
+else:
+  print(my_funcc())
