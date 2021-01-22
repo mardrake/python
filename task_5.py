@@ -7,16 +7,19 @@
 Если специальный символ введён после нескольких чисел, то вначале нужно добавить сумму этих чисел к полученной ранее сумме и после этого завершить программу.
 '''
 n = input('Введите числа, через пробел: ').split()
-a=[]
+a = []
 for i, item in enumerate(n):
     a.append(int(item))
 print('Сумма: ', sum(a))
 
-n = input('Введите еще числа, через пробел: ').split()
-try:
-    for i, item in enumerate(n):
-        a.append(int(item))
-except ValueError:
-    print('Это не число. Выходим.')
-s = sum(a)
-print('Сумма: ', s)
+while True:
+    if item == 'q':
+        break
+    try:
+        n = input('Введите еще числа, через пробел или введите q: ').split()
+        for i, item in enumerate(n):
+            a.append(int(item))
+        print('Сумма: ', sum(a))
+    except ValueError:
+        print('Сумма: ', sum(a))
+print("Работа программы завешена")
