@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_3&#10;done">
-      <change afterPath="$PROJECT_DIR$/task_4.py" afterDir="false" />
+    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_4&#10;done">
+      <change afterPath="$PROJECT_DIR$/task_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611488226527</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="task_4&#10;done">
+      <created>1611489270470</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611489270470</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +215,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task_2&#10;done" />
-    <MESSAGE value="task_4&#10;done" />
     <MESSAGE value="task_5&#10;done" />
     <MESSAGE value="task_6&#10;done" />
     <MESSAGE value="task_7&#10;done" />
@@ -219,6 +225,7 @@
     <MESSAGE value="task_1, task_2&#10;done" />
     <MESSAGE value="task_2&#10;update" />
     <MESSAGE value="task_3&#10;done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_3&#10;done" />
+    <MESSAGE value="task_4&#10;done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_4&#10;done" />
   </component>
 </project>
