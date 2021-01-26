@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_6&#10;done">
-      <change afterPath="$PROJECT_DIR$/task_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_7&#10;done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +31,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_01_2021_9_53_[Default_Changelist]/shelved.patch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -227,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611504034820</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="task_7&#10;done">
+      <created>1611509837481</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611509837481</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,7 +249,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task_2&#10;done" />
-    <MESSAGE value="task_7&#10;done" />
     <MESSAGE value="task_4&#10;update" />
     <MESSAGE value="task_5&#10;update" />
     <MESSAGE value="task_6&#10;update" />
@@ -255,6 +259,7 @@
     <MESSAGE value="task_4&#10;done" />
     <MESSAGE value="task_5&#10;done" />
     <MESSAGE value="task_6&#10;done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_6&#10;done" />
+    <MESSAGE value="task_7&#10;done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_7&#10;done" />
   </component>
 </project>
