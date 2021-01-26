@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_1&#10;done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_2&#10;done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611675737205</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="task_1&#10;done">
+      <created>1611681643797</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611681643797</updated>
+    </task>
+    <task id="LOCAL-00030" summary="task_2&#10;done">
+      <created>1611681714974</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1611681714974</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +281,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task_2&#10;done" />
     <MESSAGE value="task_4&#10;update" />
     <MESSAGE value="task_5&#10;update" />
     <MESSAGE value="task_6&#10;update" />
@@ -281,6 +292,7 @@
     <MESSAGE value="task_6&#10;done" />
     <MESSAGE value="task_7&#10;done" />
     <MESSAGE value="task_1&#10;done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_1&#10;done" />
+    <MESSAGE value="task_2&#10;done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_2&#10;done" />
   </component>
 </project>
