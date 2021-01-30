@@ -7,7 +7,7 @@
 Например: 20м * 5000м * 25кг * 5см = 12500 т
 '''
 class Road:
-    def __init__(self, _length, _width, massa, chislo):
+    def __init__(self, _length, _width, massa = 25, chislo = 5):
         self.massa = massa
         self.chislo = chislo
         self.width = _width
@@ -18,5 +18,5 @@ class Road:
         print(f"{int(self.length * self.width * self.massa * self.chislo / 1000)}" + ' ''Tonn')
 
 
-r = Road(5000, 20, 25, 5)
+r = Road(5000, 20)
 r.rasch()
