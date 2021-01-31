@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_3&#10;update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_4&#10;done">
+      <change afterPath="$PROJECT_DIR$/task_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +38,6 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="task_1&#10;done">
-      <created>1611071262464</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1611071262464</updated>
-    </task>
     <task id="LOCAL-00002" summary="task_1&#10;done">
       <created>1611073436790</created>
       <option name="number" value="00002" />
@@ -381,7 +374,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612034666822</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="task_3&#10;update">
+      <created>1612101084652</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1612101084652</updated>
+    </task>
+    <task id="LOCAL-00050" summary="task_4&#10;done">
+      <created>1612101381151</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1612101381151</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +420,6 @@
     <MESSAGE value="task_6&#10;update" />
     <MESSAGE value="task_1, task_2&#10;done" />
     <MESSAGE value="task_3&#10;done" />
-    <MESSAGE value="task_4&#10;done" />
     <MESSAGE value="task_1&#10;update" />
     <MESSAGE value="task_5&#10;done" />
     <MESSAGE value="task_5&#10;update" />
@@ -424,6 +430,7 @@
     <MESSAGE value="task_2&#10;done" />
     <MESSAGE value="task_2&#10;update" />
     <MESSAGE value="task_3&#10;update" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_3&#10;update" />
+    <MESSAGE value="task_4&#10;done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_4&#10;done" />
   </component>
 </project>
