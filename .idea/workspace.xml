@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_2&#10;update">
+    <list default="true" id="0c911158-6b9f-4db2-b0e8-a547e82c4178" name="Default Changelist" comment="task_3&#10;update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -367,7 +367,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612032969563</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="task_2&#10;update">
+      <created>1612034431558</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1612034431558</updated>
+    </task>
+    <task id="LOCAL-00048" summary="task_3&#10;update">
+      <created>1612034666822</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1612034666822</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,6 +423,7 @@
     <MESSAGE value="task_1&#10;done" />
     <MESSAGE value="task_2&#10;done" />
     <MESSAGE value="task_2&#10;update" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_2&#10;update" />
+    <MESSAGE value="task_3&#10;update" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_3&#10;update" />
   </component>
 </project>
