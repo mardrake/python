@@ -1,8 +1,10 @@
 class MyOwnEr(Exception):
     def __init__(self, txt):
         self.txt = txt
-k=5
-while k>0:
+
+
+k = 5
+while k > 0:
     in_data = input("Любое число:")
     out_data = input("На что делим:")
     try:
@@ -13,7 +15,7 @@ while k>0:
     except (ValueError, MyOwnEr) as err:
         print(err)
     else:
-        print(f"Ответ: {in_data/out_data}")
+        print(f"Ответ: {in_data / out_data}")
     finally:
-        k-=1
+        k -= 1
         print(f"Расчет окончен, осталось {k} попытки")
